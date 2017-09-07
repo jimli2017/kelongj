@@ -5,4 +5,4 @@ I like play tennis.
 Git trscks changes of files.
 Creating a new branch is quick.
 what fuck something.
-today is thursday.
+Creating a new branch is quick AND simple.
